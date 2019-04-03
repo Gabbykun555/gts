@@ -1,0 +1,103 @@
+
+/************************* SECTION 4 **************************/
+
+
+.card {
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 0.5em 0.5em 2em dimgray;
+    padding: 5px;
+}
+
+.card-text {
+    text-align: center;
+    height: 60px;
+    padding: 0 10px;
+}
+
+.card-title {
+    color: rebeccapurple;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.btns {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.btn {
+    padding: 6px;
+}
+
+.btns a {
+    border-radius: 0.25em;
+}
+
+#about h5 {
+    line-height: 1.45em;
+}
+
+.skill {
+    margin: 20px 0px;
+}
+
+#skills i {
+    color: lime;
+}
+
+.form-group label {
+    float: left;
+    margin-top: 15px;
+}
+/*************************** MEDIA QUERIES **************************/
+
+
+
+@media (max-width: 1200px) {
+  
+    .card {
+        margin: 5px;
+    }
+   
+}
+
+@media (max-width: 350px) {
+  
+    .card {
+        text-align: center;
+        margin: 5px;
+        width: 250px;
+    }
+   
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
